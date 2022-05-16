@@ -1,4 +1,8 @@
-# EXERCICE 2 - Écosystème
+Ce projet est réalisé dans le cadre de la licence 2 Informatique de l'IED Paris 8
+
+Il a pour objectif d'utiliser le polymorphisme dans une programmation Orientée Objet en langage JAVA
+
+# EXERCICE - Écosystème
  
 **Principe de base :**
 
